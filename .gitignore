@@ -8,3 +8,4 @@ logs/
 */target
 */*.iml
 */.gitignore
+*/logs/
