@@ -1,7 +1,13 @@
 #SpringCloud Demo  
 
-基于**springCloud**框架，搭建的简单demo。包含组件：**注册中心**（`Eureka Netflix`）、**网关**（`Zuul Netflix`）、  
-**通信**（`Ribbon Netflix`，`Feign OpenFeign`）、**配置中心**（`Spring Cloud Config`）、**熔断器**（`Hystrix Netflix`）。  
+基于**springCloud**框架，搭建的简单demo。  
+
+###包含组件：  
+* **注册中心**（`Eureka Netflix`）
+* **网关**（`Zuul Netflix`）
+* **通信**（`Ribbon Netflix`，`Feign OpenFeign`）
+* **配置中心**（`Spring Cloud Config`）
+* **熔断器**（`Hystrix Netflix`）
 
 ##项目列表
   * **eureka-server**（注册中心）
