@@ -19,7 +19,7 @@
   
 ##开发环境  
 
-**Java8**、**springBoot**、**Maven**  
+**Java8**、**springBoot**、**Maven**、**Redis**、**Mysql**  
 
 ##TO DO LIST
   * 网关集成`springSecurity`、`Oauth2`
