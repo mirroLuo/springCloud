@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: system-service
+  cloud:
+    config:
+      label: master
+      profile: dev
+      uri: http://localhost:8888/
+
+server:
+  port: 8763
+
+eureka:
+    client:
+        serviceUrl:
+            defaultZone: http://localhost:8761/eureka/
+

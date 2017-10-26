@@ -12,7 +12,8 @@
 ##项目列表
   * **eureka-server**（注册中心）
   * **api-gateway**（网关）
-  * **sys-service**（系统管理服务）
+  * **auth-service**（授权服务）
+  * **system-service**（系统服务）
   * **business-service**（业务服务）
   * **config-server**（配置中心）
   * **config**（配置文件）  
